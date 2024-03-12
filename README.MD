@@ -1,7 +1,7 @@
-# Architecture
+# Metadata Tags Generation using LLMs
 
-![Alt text](https://raw.githubusercontent.com/supriyabhagat/care_metadata_generation/main/metadata_architecture.svg)
-<img src="https://raw.githubusercontent.com/supriyabhagat/care_metadata_generation/main/metadata_architecture.svg">
+The repository encompasses the code for metadata generation using Language Models (LLMs). The process involves loading and parsing data, utilizing Hugging Face (HF) Embeddings for vectorization, and storing the vectors in a FAISS Vector Database. The LLama 2 model is employed for context generation using the vector database.
+
 
 # Setup AWS EC2 for Code Execution
 
