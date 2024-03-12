@@ -1,5 +1,7 @@
-#Architecture
-![alt text](https://github.com/supriyabhagat/care_metadata_generation/edit/main/README.MD&name=https://github.com/supriyabhagat/care_metadata_generation/blob/main/metadata_architecture.svg)
+# Architecture
+
+![Alt text](https://raw.githubusercontent.com/supriyabhagat/care_metadata_generation/main/metadata_architecture.svg)
+<img src="https://raw.githubusercontent.com/supriyabhagat/care_metadata_generation/main/metadata_architecture.svg">
 
 # Setup AWS EC2 for Code Execution
 
